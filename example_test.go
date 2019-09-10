@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"time"
 
-	"golang.org/x/oauth2"
+	"github.com/fever365/oauth2"
 )
 
 func ExampleConfig() {
